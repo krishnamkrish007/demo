@@ -1,7 +1,19 @@
 {
-  "user":{
+  "user":[
+    {
     
-      "id":1,
-    "name":"Krishnam"
+     "id":1,
+    "name":"Learn React"
+  },
+    {
+    
+     "id":2,
+    "name":"Learn Angular"
+  },
+    {
+    
+     "id":3,
+    "name":"Learn Springboot"
   }
+         ]
 }
