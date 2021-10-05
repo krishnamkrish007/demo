@@ -1,8 +1,25 @@
 {
-	"user": {
+	"user":[ 
+	{
 		"id": 101,
 		"name": "Walk 10 kms today"
 
+	},
+	{
+		"id": 102,
+		"name": "Walk 20 kms today"
+
+	},
+	{
+		"id": 103,
+		"name": "Walk 30 kms today"
+
+	},
+	{
+		"id": 104,
+		"name": "Walk 40 kms today"
+
 	}
+		]
 
 }
