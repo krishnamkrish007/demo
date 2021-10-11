@@ -2,22 +2,30 @@
 	"user":[ 
 	{
 		"id": 101,
-		"name": "Walk 10 kms today"
+		"title": "Walk 10 kms today",
+		"description": "Walk from S.R Nagar to Krishna Nagar at 6.am in the morning ",
+		"author": "Krishnam"
 
 	},
 	{
 		"id": 102,
-		"name": "Walk 20 kms today"
+		"title": "Walk 12 kms today",
+		"description": "Walk from S.R Nagar to Krishna Nagar at 6.am in the morning ",
+		"author": "Archin"
 
 	},
 	{
 		"id": 103,
-		"name": "Walk 30 kms today"
+		"title": "Solve DS and Algorithms ",
+		"description": "Solve atleast 5-6 problems from geeks for geeks and leetcode",
+		"author": "Harish"
 
 	},
 	{
 		"id": 104,
-		"name": "Walk 40 kms today"
+		"title": "Learn Typescript",
+		"description": "Learn hooks and functional concepts today",
+		"author": "Krishnam"
 
 	}
 		]
